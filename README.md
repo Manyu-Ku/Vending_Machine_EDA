@@ -1,8 +1,8 @@
 # Vending Machine Sales Exploratory Data Analysis
 
-![5925973](https://github.com/Manyu-Ku/Ecomm_Customer_Segmentation_Analysis/assets/122411152/a4865fe2-e418-472d-b360-42cc0e994015)
+![vm](https://github.com/Manyu-Ku/Ecomm_Customer_Segmentation_Analysis/assets/122411152/751c8aec-8f74-4f1c-92ca-0b3343c266e0)
 
-<a href="https://www.freepik.com/free-vector/cartoon-vending-machines-collection_18575977.htm#query=vending%20machine&position=0&from_view=search&track=ais">Image by pikisuperstar</a> on Freepik
+Photo by <a href="https://unsplash.com/@nicsandman20?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nicholas Ng</a> on <a href="https://unsplash.com/photos/jhM6SfHOlFs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 ## Data Source: 
 [kaggle_datasets-vending-machine-sales](https://www.kaggle.com/datasets/awesomeasingh/vending-machine-sales)
