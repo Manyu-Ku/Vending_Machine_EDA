@@ -115,4 +115,6 @@ The following outline provides a concise summary of the analysis, highlighting t
 ### 5-5 Product Analysis
 - Find the top 10 products
 
-- 
+  ![101](https://github.com/Manyu-Ku/Ecomm_Customer_Segmentation_Analysis/assets/122411152/df8947e8-0cf8-4fda-921c-edaafc711489)
+  ![102](https://github.com/Manyu-Ku/Ecomm_Customer_Segmentation_Analysis/assets/122411152/9c9936a0-fd64-4838-9e97-650d77e12ec0)
+- Find the top 10 products' trends in each location
