@@ -77,7 +77,7 @@ The following outline provides a concise summary of the analysis, highlighting t
 - Transaction overview by location
 
   ![trans](https://github.com/Manyu-Ku/Ecomm_Customer_Segmentation_Analysis/assets/122411152/1dfbce32-defd-4fd1-af07-57d84b23494a)
-- Find out the product count per transaction
+- Find out product count per transaction
 
   ![pc](https://github.com/Manyu-Ku/Ecomm_Customer_Segmentation_Analysis/assets/122411152/45582c75-c6e1-4b1e-9301-c9f82ec6ddf9)
   > :point_right: The majority of individuals only bought a single product per transaction.
@@ -93,7 +93,7 @@ The following outline provides a concise summary of the analysis, highlighting t
   ![cat](https://github.com/Manyu-Ku/Ecomm_Customer_Segmentation_Analysis/assets/122411152/3a9f7218-104e-4271-9961-31eb3906347e)
 
   ![catq](https://github.com/Manyu-Ku/Ecomm_Customer_Segmentation_Analysis/assets/122411152/1544d5b0-9a72-42ad-b3f7-b84e26ace24f)
-  > :point_right: Among all categories, food appears to be more popular across all locations. EB Public Library, in particular, exhibits a notably high demand for food compared to the other locations. GuttenPlans experiences high demand in both the food and carbonated drink categories, while there is no demand for water (which might be indicating that this location does not offer water).
+  > :point_right: Among all categories, food appears to be more popular across all locations. EB Public Library, in particular, exhibits a notably high demand for food compared to the other locations. GuttenPlans experiences high demand in both the food and carbonated drink categories, while there is no demand for water (which might indicate that this location does not offer water).
 - Identify the range of products within each category and location
 
   ![range](https://github.com/Manyu-Ku/Ecomm_Customer_Segmentation_Analysis/assets/122411152/848f7025-200b-455f-94d5-1d60fcab6575)
@@ -119,5 +119,12 @@ The following outline provides a concise summary of the analysis, highlighting t
   ![102](https://github.com/Manyu-Ku/Ecomm_Customer_Segmentation_Analysis/assets/122411152/9c9936a0-fd64-4838-9e97-650d77e12ec0)
 - Find the top 10 products' trends in each location
 
+  ![bmall](https://github.com/Manyu-Ku/Ecomm_Customer_Segmentation_Analysis/assets/122411152/d4e31b52-fdf7-421c-90e9-2a4a57a3bdb8)
+  ![eli](https://github.com/Manyu-Ku/Ecomm_Customer_Segmentation_Analysis/assets/122411152/f0b6e710-a442-44bc-af48-2c3e16945621)
+  ![ea](https://github.com/Manyu-Ku/Ecomm_Customer_Segmentation_Analysis/assets/122411152/2267b184-779d-4e2b-befe-9105da4bd7be)
+  ![gp](https://github.com/Manyu-Ku/Ecomm_Customer_Segmentation_Analysis/assets/122411152/7e19d308-bae5-4b1c-9c1e-18df653342ea)
+
 ### 5-6 Price Sensitivity Analysis
 - Examine the relationship between price and quantity
+
+  ![pq](https://github.com/Manyu-Ku/Ecomm_Customer_Segmentation_Analysis/assets/122411152/7d578ebe-6079-474d-ae28-dd4e9ed3eeb9)
