@@ -29,7 +29,7 @@ The following outline provides a concise summary of the analysis, highlighting t
 
 ### 5-1 Data Preprocessing
 - Import libraries
-- Read and view the first 5 of the dataset
+- Read and view the first 5 rows of the dataset
 - Check the size of the data and the data types of all columns
 - Convert 'TransDate' and 'Prcd Date' to DateTime format
 - Check if there is any duplicates
