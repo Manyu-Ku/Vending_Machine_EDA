@@ -160,3 +160,4 @@ The following outline provides a concise summary of the analysis, highlighting t
 3. Earle Asphalt has the lowest sales and traffic, and it also offers the most limited products priced under $3, which might be the reason for the lower sales. **Introducing a greater variety of products to examine whether there is unmet demand in this area might help increase sales.**
 
 4. GuttenPlans has the highest sales among all locations, with nearly 80% of transactions being paid in cash, and the demand is highly centralized. **Products in high demand should undergo inventory prediction to ensure that all demands are met. One thing to note is that there are no transactions in the water category. Further investigation is needed to determine whether there is no demand for water products or if there is a supply issue in this category.**
+
