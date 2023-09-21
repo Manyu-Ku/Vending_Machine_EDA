@@ -25,7 +25,7 @@ The current dataset lacks inventory and item profitability information. Includin
 > With the provided data, we assume that the company restocks when needed and conducts an analysis of sales and quantity rather than profit analysis.
 
 ## 5. Data Analysis
-The following outline provides a concise summary of the analysis, highlighting the essential steps and key findings. To view the complete code, please click [here for ipynb file]().
+The following outline provides a concise summary of the analysis, highlighting the essential steps and key findings. To view the complete code, please click [here for ipynb file](https://github.com/Manyu-Ku/Vending_Machine_EDA/blob/main/vending.ipynb).
 
 ### 5-1 Data Preprocessing
 - Import libraries
