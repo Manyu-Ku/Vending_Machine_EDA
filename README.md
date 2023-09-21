@@ -155,8 +155,8 @@ The following outline provides a concise summary of the analysis, highlighting t
 ## 6. Insights & Recommendations
 1. Brunswick Sq Mall ranked second in sales among the 4 locations. The top product at the mall is Poland Springs Water, and the Water category accounts for 20% of sales. However, **sales in the water category have dropped in Q4, and the root cause of the decrease needs to be investigated.**
 
-2. EB Public Library has the highest sales among the 4 locations, and it also has the highest amount spent per transaction. This location offers a wider range of products with relatively low price sensitivity. **It is recommended to introduce more profitable or high-value products at this location to maximize profit.**
+2. EB Public Library possesses a sales record near the highest in all locations, and it also has the highest amount spent per transaction. This location offers a wider range of products with relatively low price sensitivity. **It is recommended to introduce more profitable or high-value products at this location to maximize profit.**
 
-3.Earle Asphalt has the lowest sales and traffic, and it also offers the most limited products priced under $3, which might be the reason for the lower sales. **Introducing a greater variety of products to examine whether there is unmet demand in this area might help increase sales.**
+3. Earle Asphalt has the lowest sales and traffic, and it also offers the most limited products priced under $3, which might be the reason for the lower sales. **Introducing a greater variety of products to examine whether there is unmet demand in this area might help increase sales.**
 
-4. 
+4. GuttenPlans has the highest sales among all locations, with nearly 80% of transactions being paid in cash, and the demand is highly centralized. **Products in high demand should undergo inventory prediction to ensure that all demands are met. One thing to note is that there are no transactions in the water category. Further investigation is needed to determine whether there is no demand for water products or if there is a supply issue in this category.**
